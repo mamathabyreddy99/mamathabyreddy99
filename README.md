@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Mamatha Byreddy
 
-<!--
-**mamathabyreddy99/mamathabyreddy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | AI Engineer | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+Building scalable AI applications, backend systems, and intelligent software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Master's student at Southern Illinois University
+- 💻 Passionate about Software Engineering, AI, and Machine Learning
+- 🌱 Currently learning LLMs, RAG, and Cloud Technologies
+- 🚀 Building AI-powered applications using Python and FastAPI
+- 📫 Reach me: mamathabyreddy26@gmail.com
+
+---
+
+## 🛠 Tech Stack
+
+Python • FastAPI • Machine Learning • Git • GitHub • SQL • MongoDB • Docker
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 Driver Performance Assessment
+YOLOv8 + LLM-based driver evaluation.
+
+### 🍽 AI Voice Restaurant
+AI-powered restaurant ordering assistant.
+
+### 🤖 Portfolio RAG
+Retrieval-Augmented Generation application.
