@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Mamatha Byreddy
+# 👋 Hi, I'm Mamatha Byreddy
 
 ### Software Engineer | AI Engineer | Machine Learning Enthusiast
 
-Building intelligent AI applications, scalable backend systems, and solving real-world problems using Artificial Intelligence.
+🚀 Passionate about building AI-powered applications, scalable backend systems, and solving real-world problems using Artificial Intelligence.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/byreddy-mamatha-296a221a8">
@@ -12,7 +12,7 @@ Building intelligent AI applications, scalable backend systems, and solving real
 </a>
 
 <a href="mailto:mamathabyreddy26@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/mamathabyreddy99">
@@ -21,30 +21,42 @@ Building intelligent AI applications, scalable backend systems, and solving real
 
 </p>
 
+![](https://komarev.com/ghpvc/?username=mamathabyreddy99&color=blue)
+
 </div>
 
 ---
 
 # 👩‍💻 About Me
 
-🎓 Master's Student at Southern Illinois University
+🎓 Master's Student in **Computer Science** at **Southern Illinois University**
 
-💡 Passionate about building AI-powered software that solves real-world problems.
-
-🚀 Interested in
+💡 Passionate about
 
 - Artificial Intelligence
 - Machine Learning
 - Software Engineering
 - Backend Development
+- Computer Vision
 - Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
 
-🌱 Currently learning
+🚀 I enjoy building intelligent applications using
+
+- Python
+- FastAPI
+- LangChain
+- OpenAI APIs
+- RAG
+- Computer Vision
+- YOLO
+- Cloud Technologies
+
+🌱 Currently Learning
 
 - Agentic AI
 - Multi-Agent Systems
-- Cloud Technologies
+- Advanced Machine Learning
+- AWS Cloud
 - System Design
 
 ---
@@ -60,7 +72,7 @@ Building intelligent AI applications, scalable backend systems, and solving real
 
 ---
 
-## Artificial Intelligence & Machine Learning
+## AI & Machine Learning
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
@@ -92,81 +104,105 @@ Building intelligent AI applications, scalable backend systems, and solving real
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square)
 
 ---
 
 # 🚀 Featured Projects
 
-### 🚗 Driver Performance Assessment
+## 🤖 AI & Machine Learning
 
-AI-powered driver evaluation using Computer Vision and Large Language Models.
-
-**Tech Stack**
-
-Python • YOLO • OpenCV • LLMs
-
----
-
-### 🤖 Portfolio RAG
-
-An intelligent chatbot capable of answering questions about a portfolio using Retrieval-Augmented Generation.
-
-**Tech Stack**
-
-Python • LangChain • Vector Database • FastAPI
+| Project | Description | Stack |
+|---------|-------------|------|
+| **[🚗 Driver Performance Assessment](https://github.com/mamathabyreddy99/Driver-Performance-Assessment)** | AI-powered driver evaluation using Computer Vision and LLMs for intelligent driving feedback. | Python • YOLO • OpenCV • LLM |
+| **[🍽 AI Voice Restaurant](https://github.com/mamathabyreddy99/AI-Voice-Restaurant)** | Voice-enabled restaurant assistant with speech recognition and conversational AI. | Python • FastAPI • AI |
+| **[🤖 Portfolio RAG Backend](https://github.com/mamathabyreddy99/portfolio-rag-backend)** | Backend service implementing Retrieval-Augmented Generation for portfolio search. | FastAPI • LangChain • RAG |
+| **[🌐 Portfolio RAG Frontend](https://github.com/mamathabyreddy99/portfolio-rag-frontend)** | Frontend interface for an AI-powered portfolio assistant. | React • JavaScript |
+| **[🐶 Dog Diet Recommendation](https://github.com/mamathabyreddy99/dog-diet)** | Machine learning-based recommendation system for personalized dog nutrition. | Python • ML |
 
 ---
 
-### 🍽 AI Voice Restaurant
+# 💻 Software Engineering
 
-Voice-enabled restaurant ordering assistant using modern AI technologies.
-
-**Tech Stack**
-
-Python • FastAPI • Speech Recognition
-
----
-
-### 🐶 Dog Diet Recommendation System
-
-Recommendation system for personalized dog nutrition.
-
-**Tech Stack**
-
-Python • Machine Learning
+- RESTful API Development
+- Backend Engineering
+- Object-Oriented Programming
+- Database Design
+- Clean Code
+- Git Version Control
+- Software Architecture
+- Problem Solving
 
 ---
 
-# 📈 GitHub Stats
+# ☁️ Cloud & Backend
+
+- AWS
+- Docker
+- Linux
+- FastAPI
+- MongoDB
+- PostgreSQL
+- GitHub Actions
+- REST APIs
+
+---
+
+# 📜 Certifications
+
+- Microsoft Azure Fundamentals
+- Google Cloud Digital Leader
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mamathabyreddy99&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mamathabyreddy99&show_icons=true&theme=github_dark"/>
 
-<br>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamathabyreddy99&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamathabyreddy99&theme=github-dark"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamathabyreddy99&layout=compact&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 📚 Currently Learning
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mamathabyreddy99&theme=algolia&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mamathabyreddy99&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
 
 - Artificial Intelligence
 - Machine Learning
-- LLM Applications
 - Agentic AI
+- Large Language Models
 - Retrieval-Augmented Generation (RAG)
-- FastAPI
-- AWS
+- Cloud Computing
 - System Design
 
 ---
@@ -175,22 +211,22 @@ Python • Machine Learning
 
 📧 **Email**
 
-mamathabyreddy26@gmail.com
+**mamathabyreddy26@gmail.com**
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/byreddy-mamatha-296a221a8
+**https://www.linkedin.com/in/byreddy-mamatha-296a221a8**
 
 💻 **GitHub**
 
-https://github.com/mamathabyreddy99
+**https://github.com/mamathabyreddy99**
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my GitHub!
 
-Always excited to collaborate on AI, Machine Learning, and Software Engineering projects.
+I'm always interested in collaborating on AI, Machine Learning, and Software Engineering projects.
 
 </div>
