@@ -121,6 +121,7 @@
 | **[🤖 Portfolio RAG Backend](https://github.com/mamathabyreddy99/portfolio-rag-backend)** | Backend service implementing Retrieval-Augmented Generation for portfolio search. | FastAPI • LangChain • RAG |
 | **[🌐 Portfolio RAG Frontend](https://github.com/mamathabyreddy99/portfolio-rag-frontend)** | Frontend interface for an AI-powered portfolio assistant. | React • JavaScript |
 | **[🐶 Dog Diet Recommendation](https://github.com/mamathabyreddy99/dog-diet)** | Machine learning-based recommendation system for personalized dog nutrition. | Python • ML |
+| **[🛡️ Agentic AI Fraud & Churn Risk Analyst](https://github.com/mamathabyreddy99/agentic-fraud-churn-risk-analyst)** | End-to-end AI risk analysis platform combining machine learning, explainability, risk scoring, and agentic AI investigation. | Python · Streamlit · scikit-learn · LangChain · OpenAI |
 
 ---
 
